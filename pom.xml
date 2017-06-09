@@ -49,7 +49,7 @@ limitations under the License.
 
    <issueManagement>
       <url>https://github.com/${github.project.id}/issues</url>
-      <system>GitHub Issues</system>
+      <system>GitHub</system>
    </issueManagement>
 
    <distributionManagement>
