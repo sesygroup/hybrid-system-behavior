@@ -1,4 +1,4 @@
-# Copyright 2017 [GROUP_NAME}
+# Copyright 2017 Software Engineering and Synthesis Group
 # 
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -30,4 +30,4 @@ after_failure:
   - cat target/rat.txt
 notifications:
   email:
-    - aleale89@hotmail.it
+    - sesygroup@gmail.com
