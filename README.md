@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 # Hybrid System Behavior
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com/github/sesygroup/choreography/hybrid-system-behavior/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com/github/sesygroup/choreography/hybrid-system-behavior) [![Build Status](https://travis-ci.org/alexander-perucci/hybrid-system-behavior.svg?branch=master)](https://travis-ci.org/alexander-perucci/hybrid-system-behavior)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com/github/sesygroup/choreography/hybrid-system-behavior/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com/github/sesygroup/choreography/hybrid-system-behavior) [![Build Status](https://travis-ci.org/sesygroup/hybrid-system-behavior.svg?branch=master)](https://travis-ci.org/sesygroup/hybrid-system-behavior)
 
 Full project details, background and more are available on the [project documention website](https://sesygroup.github.io/hybrid-system-behavior).
 
