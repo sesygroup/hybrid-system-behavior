@@ -19,7 +19,7 @@ limitations under the License.
  
    <groupId>com.github.sesygroup.choreography</groupId>
    <artifactId>hybrid-system-behavior</artifactId>
-   <version>1.0.0-SNAPSHOT</version>
+   <version>1.0.0</version>
    <packaging>jar</packaging>
 
    <name>Hybrid System Behavior</name>
@@ -45,7 +45,8 @@ limitations under the License.
       <connection>scm:git:git@github.com:${github.project.id}.git</connection>
       <developerConnection>scm:git:git@github.com:${github.project.id}.git</developerConnection>
       <url>git@github.com:${github.project.id}.git</url>
-   </scm>
+     <tag>hybrid-system-behavior-1.0.0</tag>
+  </scm>
 
    <issueManagement>
       <url>https://github.com/${github.project.id}/issues</url>
